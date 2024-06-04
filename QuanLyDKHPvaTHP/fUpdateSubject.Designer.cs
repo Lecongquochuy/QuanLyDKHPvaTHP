@@ -28,26 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            laTitleInfoUpdateSub = new Label();
-            textBoxMaMon = new TextBox();
             labelInpMaMon = new Label();
             panelInput = new Panel();
+            textBoxMaMon = new Label();
             textBoxTenMon = new TextBox();
             labelInpTenMon = new Label();
             panel1 = new Panel();
             textBoxSoTiet = new TextBox();
             labelInpSoTiet = new Label();
-            textBoxSoTC = new TextBox();
             panel2 = new Panel();
             labelInpSTC = new Label();
             panel3 = new Panel();
+            textBoxSoTC = new TextBox();
             comboLoaiMon = new ComboBox();
             labelLoaiMon = new Label();
             panel4 = new Panel();
             pInfoUpdatesub = new Panel();
             btnUpdateSub = new Button();
             panelContentUpdateSubject = new Panel();
-            pTitleInforUpdateSub = new Panel();
             labelUpdateSubject = new Label();
             panelTitleaddSubject = new Panel();
             panelInput.SuspendLayout();
@@ -57,39 +55,17 @@
             panel4.SuspendLayout();
             pInfoUpdatesub.SuspendLayout();
             panelContentUpdateSubject.SuspendLayout();
-            pTitleInforUpdateSub.SuspendLayout();
             panelTitleaddSubject.SuspendLayout();
             SuspendLayout();
-            // 
-            // laTitleInfoUpdateSub
-            // 
-            laTitleInfoUpdateSub.AutoSize = true;
-            laTitleInfoUpdateSub.Font = new Font("Times New Roman", 20.1428585F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            laTitleInfoUpdateSub.ForeColor = Color.FromArgb(21, 44, 112);
-            laTitleInfoUpdateSub.Location = new Point(80, 24);
-            laTitleInfoUpdateSub.Name = "laTitleInfoUpdateSub";
-            laTitleInfoUpdateSub.Size = new Size(409, 55);
-            laTitleInfoUpdateSub.TabIndex = 0;
-            laTitleInfoUpdateSub.Text = "Thông tin môn học";
-            laTitleInfoUpdateSub.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // textBoxMaMon
-            // 
-            textBoxMaMon.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            textBoxMaMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBoxMaMon.Location = new Point(30, 64);
-            textBoxMaMon.Margin = new Padding(12);
-            textBoxMaMon.Name = "textBoxMaMon";
-            textBoxMaMon.Size = new Size(520, 40);
-            textBoxMaMon.TabIndex = 1;
             // 
             // labelInpMaMon
             // 
             labelInpMaMon.AutoSize = true;
-            labelInpMaMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpMaMon.Font = new Font("Times New Roman", 15.000001F);
+            labelInpMaMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpMaMon.Location = new Point(28, 16);
             labelInpMaMon.Name = "labelInpMaMon";
-            labelInpMaMon.Size = new Size(154, 33);
+            labelInpMaMon.Size = new Size(197, 41);
             labelInpMaMon.TabIndex = 0;
             labelInpMaMon.Text = "Mã môn học";
             // 
@@ -102,21 +78,35 @@
             panelInput.Size = new Size(580, 128);
             panelInput.TabIndex = 0;
             // 
+            // textBoxMaMon
+            // 
+            textBoxMaMon.BackColor = SystemColors.ButtonFace;
+            textBoxMaMon.BorderStyle = BorderStyle.FixedSingle;
+            textBoxMaMon.Enabled = false;
+            textBoxMaMon.Font = new Font("Times New Roman", 15.000001F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            textBoxMaMon.ForeColor = Color.Black;
+            textBoxMaMon.Location = new Point(30, 64);
+            textBoxMaMon.Name = "textBoxMaMon";
+            textBoxMaMon.Size = new Size(520, 48);
+            textBoxMaMon.TabIndex = 1;
+            textBoxMaMon.TextAlign = ContentAlignment.MiddleLeft;
+            // 
             // textBoxTenMon
             // 
-            textBoxTenMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            textBoxTenMon.Font = new Font("Times New Roman", 15.000001F);
             textBoxTenMon.Location = new Point(30, 64);
             textBoxTenMon.Name = "textBoxTenMon";
-            textBoxTenMon.Size = new Size(520, 40);
+            textBoxTenMon.Size = new Size(520, 48);
             textBoxTenMon.TabIndex = 1;
             // 
             // labelInpTenMon
             // 
             labelInpTenMon.AutoSize = true;
-            labelInpTenMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpTenMon.Font = new Font("Times New Roman", 15.000001F);
+            labelInpTenMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpTenMon.Location = new Point(28, 16);
             labelInpTenMon.Name = "labelInpTenMon";
-            labelInpTenMon.Size = new Size(159, 33);
+            labelInpTenMon.Size = new Size(202, 41);
             labelInpTenMon.TabIndex = 0;
             labelInpTenMon.Text = "Tên môn học";
             // 
@@ -131,29 +121,23 @@
             // 
             // textBoxSoTiet
             // 
-            textBoxSoTiet.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            textBoxSoTiet.Font = new Font("Times New Roman", 15.000001F);
             textBoxSoTiet.Location = new Point(30, 64);
             textBoxSoTiet.Name = "textBoxSoTiet";
-            textBoxSoTiet.Size = new Size(520, 40);
+            textBoxSoTiet.Size = new Size(520, 48);
             textBoxSoTiet.TabIndex = 1;
+            textBoxSoTiet.TextChanged += textBoxSoTiet_TextChanged;
             // 
             // labelInpSoTiet
             // 
             labelInpSoTiet.AutoSize = true;
-            labelInpSoTiet.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpSoTiet.Font = new Font("Times New Roman", 15.000001F);
+            labelInpSoTiet.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpSoTiet.Location = new Point(28, 16);
             labelInpSoTiet.Name = "labelInpSoTiet";
-            labelInpSoTiet.Size = new Size(88, 33);
+            labelInpSoTiet.Size = new Size(110, 41);
             labelInpSoTiet.TabIndex = 0;
             labelInpSoTiet.Text = "Số tiết";
-            // 
-            // textBoxSoTC
-            // 
-            textBoxSoTC.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            textBoxSoTC.Location = new Point(30, 64);
-            textBoxSoTC.Name = "textBoxSoTC";
-            textBoxSoTC.Size = new Size(520, 40);
-            textBoxSoTC.TabIndex = 1;
             // 
             // panel2
             // 
@@ -167,10 +151,11 @@
             // labelInpSTC
             // 
             labelInpSTC.AutoSize = true;
-            labelInpSTC.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpSTC.Font = new Font("Times New Roman", 15.000001F);
+            labelInpSTC.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpSTC.Location = new Point(28, 16);
             labelInpSTC.Name = "labelInpSTC";
-            labelInpSTC.Size = new Size(123, 33);
+            labelInpSTC.Size = new Size(153, 41);
             labelInpSTC.TabIndex = 0;
             labelInpSTC.Text = "Số tín chỉ";
             // 
@@ -183,21 +168,34 @@
             panel3.Size = new Size(580, 128);
             panel3.TabIndex = 2;
             // 
+            // textBoxSoTC
+            // 
+            textBoxSoTC.BackColor = SystemColors.ButtonFace;
+            textBoxSoTC.Enabled = false;
+            textBoxSoTC.Font = new Font("Times New Roman", 15.000001F);
+            textBoxSoTC.Location = new Point(28, 64);
+            textBoxSoTC.Name = "textBoxSoTC";
+            textBoxSoTC.Size = new Size(520, 48);
+            textBoxSoTC.TabIndex = 2;
+            // 
             // comboLoaiMon
             // 
+            comboLoaiMon.Font = new Font("Times New Roman", 15.000001F);
             comboLoaiMon.FormattingEnabled = true;
             comboLoaiMon.Location = new Point(28, 65);
             comboLoaiMon.Name = "comboLoaiMon";
-            comboLoaiMon.Size = new Size(522, 38);
+            comboLoaiMon.Size = new Size(522, 48);
             comboLoaiMon.TabIndex = 4;
+            comboLoaiMon.SelectedIndexChanged += comboLoaiMon_SelectedIndexChanged;
             // 
             // labelLoaiMon
             // 
             labelLoaiMon.AutoSize = true;
-            labelLoaiMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelLoaiMon.Font = new Font("Times New Roman", 15.000001F);
+            labelLoaiMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelLoaiMon.Location = new Point(28, 16);
             labelLoaiMon.Name = "labelLoaiMon";
-            labelLoaiMon.Size = new Size(120, 33);
+            labelLoaiMon.Size = new Size(153, 41);
             labelLoaiMon.TabIndex = 0;
             labelLoaiMon.Text = "Loại môn";
             // 
@@ -218,9 +216,9 @@
             pInfoUpdatesub.Controls.Add(panel2);
             pInfoUpdatesub.Controls.Add(panel1);
             pInfoUpdatesub.Controls.Add(panelInput);
-            pInfoUpdatesub.Location = new Point(59, 165);
+            pInfoUpdatesub.Location = new Point(59, 52);
             pInfoUpdatesub.Name = "pInfoUpdatesub";
-            pInfoUpdatesub.Size = new Size(1498, 440);
+            pInfoUpdatesub.Size = new Size(1498, 482);
             pInfoUpdatesub.TabIndex = 1;
             // 
             // btnUpdateSub
@@ -241,21 +239,10 @@
             // 
             panelContentUpdateSubject.BackColor = Color.White;
             panelContentUpdateSubject.Controls.Add(pInfoUpdatesub);
-            panelContentUpdateSubject.Controls.Add(pTitleInforUpdateSub);
             panelContentUpdateSubject.Location = new Point(2, 113);
             panelContentUpdateSubject.Name = "panelContentUpdateSubject";
-            panelContentUpdateSubject.Size = new Size(1620, 690);
+            panelContentUpdateSubject.Size = new Size(1620, 549);
             panelContentUpdateSubject.TabIndex = 3;
-            // 
-            // pTitleInforUpdateSub
-            // 
-            pTitleInforUpdateSub.Controls.Add(laTitleInfoUpdateSub);
-            pTitleInforUpdateSub.Font = new Font("Times New Roman", 20.1428585F, FontStyle.Bold);
-            pTitleInforUpdateSub.ForeColor = Color.DarkBlue;
-            pTitleInforUpdateSub.Location = new Point(59, 39);
-            pTitleInforUpdateSub.Name = "pTitleInforUpdateSub";
-            pTitleInforUpdateSub.Size = new Size(1498, 110);
-            pTitleInforUpdateSub.TabIndex = 0;
             // 
             // labelUpdateSubject
             // 
@@ -263,11 +250,11 @@
             labelUpdateSubject.AutoSize = true;
             labelUpdateSubject.Font = new Font("Times New Roman", 30.0000019F, FontStyle.Bold, GraphicsUnit.Point, 0);
             labelUpdateSubject.ForeColor = Color.Transparent;
-            labelUpdateSubject.Location = new Point(367, 15);
+            labelUpdateSubject.Location = new Point(531, 18);
             labelUpdateSubject.Name = "labelUpdateSubject";
-            labelUpdateSubject.Size = new Size(886, 81);
+            labelUpdateSubject.Size = new Size(609, 81);
             labelUpdateSubject.TabIndex = 0;
-            labelUpdateSubject.Text = "Cập nhật thông tin môn học";
+            labelUpdateSubject.Text = "Thông tin môn học";
             labelUpdateSubject.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // panelTitleaddSubject
@@ -284,11 +271,13 @@
             AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1620, 804);
+            ClientSize = new Size(1620, 659);
             Controls.Add(panelContentUpdateSubject);
             Controls.Add(panelTitleaddSubject);
             Name = "fUpdateSubject";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "fUpdateSubject";
+            FormClosing += fAddSubject_FormClosing;
             panelInput.ResumeLayout(false);
             panelInput.PerformLayout();
             panel1.ResumeLayout(false);
@@ -301,17 +290,12 @@
             panel4.PerformLayout();
             pInfoUpdatesub.ResumeLayout(false);
             panelContentUpdateSubject.ResumeLayout(false);
-            pTitleInforUpdateSub.ResumeLayout(false);
-            pTitleInforUpdateSub.PerformLayout();
             panelTitleaddSubject.ResumeLayout(false);
             panelTitleaddSubject.PerformLayout();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private Label laTitleInfoUpdateSub;
-        private TextBox textBoxMaMon;
         private Label labelInpMaMon;
         private Panel panelInput;
         private TextBox textBoxTenMon;
@@ -319,7 +303,6 @@
         private Panel panel1;
         private TextBox textBoxSoTiet;
         private Label labelInpSoTiet;
-        private TextBox textBoxSoTC;
         private Panel panel2;
         private Label labelInpSTC;
         private Panel panel3;
@@ -329,9 +312,10 @@
         private Panel panel4;
         private Panel pInfoUpdatesub;
         private Panel panelContentUpdateSubject;
-        private Panel pTitleInforUpdateSub;
         private Label labelUpdateSubject;
         private Panel panelTitleaddSubject;
         private Button btnUpdateSub;
+        private Label textBoxMaMon;
+        private TextBox textBoxSoTC;
     }
 }

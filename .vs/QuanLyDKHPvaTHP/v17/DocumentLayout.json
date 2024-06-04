@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|d:\\daihoc\\nam3\\ki2\\software\\project\\quanlydkhpvathp\\quanlydkhpvathp\\fdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddsubjectofregistercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddsubjectofregistercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|d:\\daihoc\\nam3\\ki2\\software\\project\\quanlydkhpvathp\\quanlydkhpvathp\\faddregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\freport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\freport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\ffaculties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\ffaculties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\quanlydkhpvathuhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\quanlydkhpvathuhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\fupdateregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fupdateregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\fupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\fupdatestudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fupdatestudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddsubjectofupdatestudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddsubjectofupdatestudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddsubjectofaddstudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddsubjectofaddstudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\fupdateopensubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fupdateopensubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddstudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddstudyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\fviewopensubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\fviewopensubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddtuitionfee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddtuitionfee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\quanlydkhpvathp\\faddtuitionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51667F6E-AFDE-433F-A584-25F5E1425684}|QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP.csproj|solutionrelative:quanlydkhpvathp\\faddtuitionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fDashboard.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fDashboard.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fDashboard.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:06:05.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fAddRegister.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAAAC0BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:27:21.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAddRegister.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddRegister.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddRegister.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:26:18.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAddSubjectOfRegisterCourses.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfRegisterCourses.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddSubjectOfRegisterCourses.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfRegisterCourses.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddSubjectOfRegisterCourses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:26:13.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fReport.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fReport.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fReport.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fReport.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fReport.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAQwIwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:24:53.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fFaculties.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fFaculties.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fFaculties.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fFaculties.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fFaculties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:24:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fAddSubjectOfUpdateStudyProgram.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfUpdateStudyProgram.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddSubjectOfUpdateStudyProgram.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfUpdateStudyProgram.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddSubjectOfUpdateStudyProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:58.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fUpdateStudyProgram.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateStudyProgram.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fUpdateStudyProgram.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateStudyProgram.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fUpdateStudyProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fUpdateSubject.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateSubject.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fUpdateSubject.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateSubject.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fUpdateSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fUpdateRegister.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateRegister.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fUpdateRegister.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateRegister.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fUpdateRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyDKHPvaThuHP.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\QuanLyDKHPvaThuHP.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\QuanLyDKHPvaThuHP.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\QuanLyDKHPvaThuHP.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\QuanLyDKHPvaThuHP.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAA5wIYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:08:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fAddSubjectOfAddStudyProgram.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfAddStudyProgram.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddSubjectOfAddStudyProgram.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddSubjectOfAddStudyProgram.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddSubjectOfAddStudyProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:19:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fUpdateOpenSubject.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateOpenSubject.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fUpdateOpenSubject.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fUpdateOpenSubject.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fUpdateOpenSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fAddStudyProgram.cs [Design]",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddStudyProgram.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddStudyProgram.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddStudyProgram.cs [Design]",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddStudyProgram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:17:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fViewOpenSubject.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fViewOpenSubject.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fViewOpenSubject.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fViewOpenSubject.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fViewOpenSubject.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:06:49.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fAddTuitionFee.Designer.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddTuitionFee.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddTuitionFee.Designer.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddTuitionFee.Designer.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddTuitionFee.Designer.cs",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAuwKIBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:05:52.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fAddTuitionFee.cs",
+              "DocumentMoniker": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddTuitionFee.cs",
+              "RelativeDocumentMoniker": "QuanLyDKHPvaTHP\\fAddTuitionFee.cs",
+              "ToolTip": "D:\\DAIHOC\\Nam3\\Ki2\\Software\\Project\\QuanLyDKHPvaTHP\\QuanLyDKHPvaTHP\\fAddTuitionFee.cs",
+              "RelativeToolTip": "QuanLyDKHPvaTHP\\fAddTuitionFee.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAwwMoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:05:29.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Components\RegisterCourseItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\StudyProgramItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\SubjectItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ucBlankDay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ucDay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="fAddDistrict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddFaculties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddPriority.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddProvince.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSemesterSchoolYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectOfAddStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectOfRegisterCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectOfUpdateOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectOfUpdateStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectOfOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddSubjectType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddTuitionFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDistrict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fFaculties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fPriority.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fProvince.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fRegisterCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSubjectType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateDistrict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateFaculties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateProvince.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateSubjectType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSemesterSchoolYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fTuition_fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdatePriority.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateSemesterSchoolYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fUpdateSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fviewSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewSubjectOfRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewSubjectOfStudyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fviewSubjectOpenSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fViewTuitionFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyDKHPvaThuHP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
