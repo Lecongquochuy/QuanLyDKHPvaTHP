@@ -29,26 +29,26 @@
         private void InitializeComponent()
         {
             laTitleInfoAddsub = new Label();
-            txtMaMon = new TextBox();
             labelInpMaMon = new Label();
             panelInput = new Panel();
-            txtTenMon = new TextBox();
+            lMaMonViewSub = new Label();
             labelInpTenMon = new Label();
             panel1 = new Panel();
-            txtSoTiet = new TextBox();
+            lTenMonViewSub = new Label();
             labelInpSoTiet = new Label();
-            txtSoTC = new TextBox();
             panel2 = new Panel();
+            lSoTietViewSub = new Label();
             labelInpSTC = new Label();
             panel3 = new Panel();
+            lSoTcViewSub = new Label();
             labelLoaiMon = new Label();
             panel4 = new Panel();
+            lLoaiMonViewSub = new Label();
             pInfoAddsub = new Panel();
             panelContentAddSubject = new Panel();
             pTitleInforAddSub = new Panel();
             labelViewSubject = new Label();
             panelTitleaddSubject = new Panel();
-            txtLoaiMon = new TextBox();
             panelInput.SuspendLayout();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -72,134 +72,155 @@
             laTitleInfoAddsub.Text = "Thông tin môn học";
             laTitleInfoAddsub.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // txtMaMon
-            // 
-            txtMaMon.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            txtMaMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtMaMon.Location = new Point(30, 64);
-            txtMaMon.Margin = new Padding(12);
-            txtMaMon.Name = "txtMaMon";
-            txtMaMon.Size = new Size(520, 40);
-            txtMaMon.TabIndex = 1;
-            // 
             // labelInpMaMon
             // 
             labelInpMaMon.AutoSize = true;
-            labelInpMaMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpMaMon.Font = new Font("Times New Roman", 15.000001F);
+            labelInpMaMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpMaMon.Location = new Point(28, 16);
             labelInpMaMon.Name = "labelInpMaMon";
-            labelInpMaMon.Size = new Size(154, 33);
+            labelInpMaMon.Size = new Size(215, 41);
             labelInpMaMon.TabIndex = 0;
-            labelInpMaMon.Text = "Mã môn học";
+            labelInpMaMon.Text = "Mã môn học: ";
             // 
             // panelInput
             // 
-            panelInput.Controls.Add(txtMaMon);
+            panelInput.Controls.Add(lMaMonViewSub);
             panelInput.Controls.Add(labelInpMaMon);
             panelInput.Location = new Point(145, 20);
             panelInput.Name = "panelInput";
-            panelInput.Size = new Size(580, 128);
+            panelInput.Size = new Size(580, 66);
             panelInput.TabIndex = 0;
             // 
-            // txtTenMon
+            // lMaMonViewSub
             // 
-            txtTenMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtTenMon.Location = new Point(30, 64);
-            txtTenMon.Name = "txtTenMon";
-            txtTenMon.Size = new Size(520, 40);
-            txtTenMon.TabIndex = 1;
+            lMaMonViewSub.AutoSize = true;
+            lMaMonViewSub.Font = new Font("Times New Roman", 15.000001F);
+            lMaMonViewSub.Location = new Point(240, 15);
+            lMaMonViewSub.Name = "lMaMonViewSub";
+            lMaMonViewSub.Size = new Size(131, 41);
+            lMaMonViewSub.TabIndex = 1;
+            lMaMonViewSub.Text = "ma mon";
             // 
             // labelInpTenMon
             // 
             labelInpTenMon.AutoSize = true;
-            labelInpTenMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelInpTenMon.Font = new Font("Times New Roman", 15.000001F);
+            labelInpTenMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelInpTenMon.Location = new Point(28, 16);
             labelInpTenMon.Name = "labelInpTenMon";
-            labelInpTenMon.Size = new Size(159, 33);
+            labelInpTenMon.Size = new Size(220, 41);
             labelInpTenMon.TabIndex = 0;
-            labelInpTenMon.Text = "Tên môn học";
+            labelInpTenMon.Text = "Tên môn học: ";
             // 
             // panel1
             // 
-            panel1.Controls.Add(txtTenMon);
+            panel1.Controls.Add(lTenMonViewSub);
             panel1.Controls.Add(labelInpTenMon);
             panel1.Location = new Point(781, 20);
             panel1.Name = "panel1";
-            panel1.Size = new Size(580, 128);
+            panel1.Size = new Size(580, 66);
             panel1.TabIndex = 2;
             // 
-            // txtSoTiet
+            // lTenMonViewSub
             // 
-            txtSoTiet.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtSoTiet.Location = new Point(30, 64);
-            txtSoTiet.Name = "txtSoTiet";
-            txtSoTiet.Size = new Size(520, 40);
-            txtSoTiet.TabIndex = 1;
+            lTenMonViewSub.AutoSize = true;
+            lTenMonViewSub.Font = new Font("Times New Roman", 15.000001F);
+            lTenMonViewSub.Location = new Point(244, 16);
+            lTenMonViewSub.Name = "lTenMonViewSub";
+            lTenMonViewSub.Size = new Size(130, 41);
+            lTenMonViewSub.TabIndex = 4;
+            lTenMonViewSub.Text = "ten mon";
             // 
             // labelInpSoTiet
             // 
             labelInpSoTiet.AutoSize = true;
-            labelInpSoTiet.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            labelInpSoTiet.Location = new Point(28, 16);
+            labelInpSoTiet.Font = new Font("Times New Roman", 15.000001F);
+            labelInpSoTiet.ForeColor = Color.FromArgb(16, 156, 241);
+            labelInpSoTiet.Location = new Point(28, 17);
             labelInpSoTiet.Name = "labelInpSoTiet";
-            labelInpSoTiet.Size = new Size(88, 33);
+            labelInpSoTiet.Size = new Size(128, 41);
             labelInpSoTiet.TabIndex = 0;
-            labelInpSoTiet.Text = "Số tiết";
-            // 
-            // txtSoTC
-            // 
-            txtSoTC.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtSoTC.Location = new Point(30, 64);
-            txtSoTC.Name = "txtSoTC";
-            txtSoTC.Size = new Size(520, 40);
-            txtSoTC.TabIndex = 1;
+            labelInpSoTiet.Text = "Số tiết: ";
             // 
             // panel2
             // 
-            panel2.Controls.Add(txtSoTiet);
+            panel2.Controls.Add(lSoTietViewSub);
             panel2.Controls.Add(labelInpSoTiet);
-            panel2.Location = new Point(145, 154);
+            panel2.Location = new Point(145, 108);
             panel2.Name = "panel2";
-            panel2.Size = new Size(580, 128);
+            panel2.Size = new Size(580, 69);
             panel2.TabIndex = 2;
+            // 
+            // lSoTietViewSub
+            // 
+            lSoTietViewSub.AutoSize = true;
+            lSoTietViewSub.Font = new Font("Times New Roman", 15.000001F);
+            lSoTietViewSub.Location = new Point(240, 17);
+            lSoTietViewSub.Name = "lSoTietViewSub";
+            lSoTietViewSub.Size = new Size(104, 41);
+            lSoTietViewSub.TabIndex = 2;
+            lSoTietViewSub.Text = "so tiet";
             // 
             // labelInpSTC
             // 
             labelInpSTC.AutoSize = true;
-            labelInpSTC.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            labelInpSTC.Location = new Point(28, 16);
+            labelInpSTC.Font = new Font("Times New Roman", 15.000001F);
+            labelInpSTC.ForeColor = Color.FromArgb(16, 156, 241);
+            labelInpSTC.Location = new Point(28, 17);
             labelInpSTC.Name = "labelInpSTC";
-            labelInpSTC.Size = new Size(123, 33);
+            labelInpSTC.Size = new Size(171, 41);
             labelInpSTC.TabIndex = 0;
-            labelInpSTC.Text = "Số tín chỉ";
+            labelInpSTC.Text = "Số tín chỉ: ";
             // 
             // panel3
             // 
-            panel3.Controls.Add(txtSoTC);
+            panel3.Controls.Add(lSoTcViewSub);
             panel3.Controls.Add(labelInpSTC);
-            panel3.Location = new Point(781, 154);
+            panel3.Location = new Point(781, 108);
             panel3.Name = "panel3";
-            panel3.Size = new Size(580, 128);
+            panel3.Size = new Size(580, 69);
             panel3.TabIndex = 2;
+            // 
+            // lSoTcViewSub
+            // 
+            lSoTcViewSub.AutoSize = true;
+            lSoTcViewSub.Font = new Font("Times New Roman", 15.000001F);
+            lSoTcViewSub.Location = new Point(244, 16);
+            lSoTcViewSub.Name = "lSoTcViewSub";
+            lSoTcViewSub.Size = new Size(146, 41);
+            lSoTcViewSub.TabIndex = 5;
+            lSoTcViewSub.Text = "so tin chi";
             // 
             // labelLoaiMon
             // 
             labelLoaiMon.AutoSize = true;
-            labelLoaiMon.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelLoaiMon.Font = new Font("Times New Roman", 15.000001F);
+            labelLoaiMon.ForeColor = Color.FromArgb(16, 156, 241);
             labelLoaiMon.Location = new Point(28, 16);
             labelLoaiMon.Name = "labelLoaiMon";
-            labelLoaiMon.Size = new Size(120, 33);
+            labelLoaiMon.Size = new Size(171, 41);
             labelLoaiMon.TabIndex = 0;
-            labelLoaiMon.Text = "Loại môn";
+            labelLoaiMon.Text = "Loại môn: ";
             // 
             // panel4
             // 
-            panel4.Controls.Add(txtLoaiMon);
+            panel4.Controls.Add(lLoaiMonViewSub);
             panel4.Controls.Add(labelLoaiMon);
-            panel4.Location = new Point(145, 288);
+            panel4.Location = new Point(145, 202);
             panel4.Name = "panel4";
-            panel4.Size = new Size(580, 128);
+            panel4.Size = new Size(580, 73);
             panel4.TabIndex = 2;
+            // 
+            // lLoaiMonViewSub
+            // 
+            lLoaiMonViewSub.AutoSize = true;
+            lLoaiMonViewSub.Font = new Font("Times New Roman", 15.000001F);
+            lLoaiMonViewSub.Location = new Point(240, 16);
+            lLoaiMonViewSub.Name = "lLoaiMonViewSub";
+            lLoaiMonViewSub.Size = new Size(140, 41);
+            lLoaiMonViewSub.TabIndex = 3;
+            lLoaiMonViewSub.Text = "loai mon";
             // 
             // pInfoAddsub
             // 
@@ -208,9 +229,9 @@
             pInfoAddsub.Controls.Add(panel2);
             pInfoAddsub.Controls.Add(panel1);
             pInfoAddsub.Controls.Add(panelInput);
-            pInfoAddsub.Location = new Point(59, 165);
+            pInfoAddsub.Location = new Point(59, 125);
             pInfoAddsub.Name = "pInfoAddsub";
-            pInfoAddsub.Size = new Size(1498, 440);
+            pInfoAddsub.Size = new Size(1498, 304);
             pInfoAddsub.TabIndex = 1;
             // 
             // panelContentAddSubject
@@ -220,7 +241,7 @@
             panelContentAddSubject.Controls.Add(pTitleInforAddSub);
             panelContentAddSubject.Location = new Point(2, 113);
             panelContentAddSubject.Name = "panelContentAddSubject";
-            panelContentAddSubject.Size = new Size(1620, 690);
+            panelContentAddSubject.Size = new Size(1620, 461);
             panelContentAddSubject.TabIndex = 3;
             // 
             // pTitleInforAddSub
@@ -228,9 +249,9 @@
             pTitleInforAddSub.Controls.Add(laTitleInfoAddsub);
             pTitleInforAddSub.Font = new Font("Times New Roman", 20.1428585F, FontStyle.Bold);
             pTitleInforAddSub.ForeColor = Color.DarkBlue;
-            pTitleInforAddSub.Location = new Point(59, 39);
+            pTitleInforAddSub.Location = new Point(59, 28);
             pTitleInforAddSub.Name = "pTitleInforAddSub";
-            pTitleInforAddSub.Size = new Size(1498, 110);
+            pTitleInforAddSub.Size = new Size(1498, 93);
             pTitleInforAddSub.TabIndex = 0;
             // 
             // labelViewSubject
@@ -255,22 +276,16 @@
             panelTitleaddSubject.Size = new Size(1620, 109);
             panelTitleaddSubject.TabIndex = 2;
             // 
-            // txtLoaiMon
-            // 
-            txtLoaiMon.Location = new Point(30, 74);
-            txtLoaiMon.Name = "txtLoaiMon";
-            txtLoaiMon.Size = new Size(520, 35);
-            txtLoaiMon.TabIndex = 1;
-            // 
             // fViewSubject
             // 
             AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1620, 804);
+            ClientSize = new Size(1620, 574);
             Controls.Add(panelContentAddSubject);
             Controls.Add(panelTitleaddSubject);
             Name = "fViewSubject";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Thông tin môn học";
             panelInput.ResumeLayout(false);
             panelInput.PerformLayout();
@@ -294,15 +309,11 @@
         #endregion
 
         private Label laTitleInfoAddsub;
-        private TextBox txtMaMon;
         private Label labelInpMaMon;
         private Panel panelInput;
-        private TextBox txtTenMon;
         private Label labelInpTenMon;
         private Panel panel1;
-        private TextBox txtSoTiet;
         private Label labelInpSoTiet;
-        private TextBox txtSoTC;
         private Panel panel2;
         private Label labelInpSTC;
         private Panel panel3;
@@ -313,6 +324,10 @@
         private Panel pTitleInforAddSub;
         private Label labelViewSubject;
         private Panel panelTitleaddSubject;
-        private TextBox txtLoaiMon;
+        private Label lMaMonViewSub;
+        private Label lTenMonViewSub;
+        private Label lSoTietViewSub;
+        private Label lSoTcViewSub;
+        private Label lLoaiMonViewSub;
     }
 }
