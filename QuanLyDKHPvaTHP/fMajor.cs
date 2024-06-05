@@ -98,7 +98,15 @@ namespace QuanLyDKHPvaTHP
                         }
                         catch (Exception ex)
                         {
-                            MessageBox.Show(ex.Message.Split('\n')[0], "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            string keyword = "The conflict occurred in database \"QLDKHP\", table \"dbo.SINHVIEN\", column 'MaNH'";
+                            if (ex.Message.Contains(keyword))
+                            {
+                                MessageBox.Show("Không thể xóa ngành học này", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            }
+                            else
+                            {
+                                MessageBox.Show(ex.Message.Split('\n')[0], "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            }
                         }
                         Reload();
                     }
